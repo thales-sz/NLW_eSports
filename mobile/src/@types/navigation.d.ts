@@ -1,5 +1,5 @@
 export declare global {
-  namespace ReactNavitagion {
+  namespace ReactNavigation {
     interface RootParamList {
       home: undefined;
       game: {
