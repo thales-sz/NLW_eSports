@@ -20,5 +20,6 @@ export const styles = StyleSheet.create({
   right: {
     width: 20,
     height: 20,
+    fontSize: 16,
   },
 })
